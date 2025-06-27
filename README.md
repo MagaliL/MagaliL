@@ -12,7 +12,7 @@
 
 - 💻 Software Engineer 
 - 📊 Currently expanding my skills in Data Analytics
-- ✍️ Part-time writer and blogger
+- ✍️ Part-time writer
 - 🌱 Always learning new technologies and improving my craft
 - 📚 Enjoy bridging the gap between technology and storytelling
 <br><br>
