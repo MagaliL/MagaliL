@@ -29,7 +29,7 @@
   </tr>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/numpy-3521138-2944833.png" width="100"></td>
-      <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/vscode.svg" width="100"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="100"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="100"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="100"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="100"></td>
