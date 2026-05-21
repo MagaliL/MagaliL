@@ -2,8 +2,8 @@
 
 
 <p align="center">
- <a href="https://github.com/magaliespinosa">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Business+Intelligence+Engineer;Data+%26+Automation+Enthusiast;Computer+Engineering+Student+%40+UNAM;Passionate+about+tech+%26+words&font=Pacifico&center=true&width=650&height=120&color=DB7093&vCenter=true&size=32">
+<a href="https://github.com/magaliespinosa">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Business+Intelligence+Engineer;Computer+Engineer;SQL+%26+Database+Enthusiast;Passionate+about+tech+%26+words&font=Pacifico&center=true&width=650&height=120&color=DB7093&vCenter=true&size=32">
 </a>
 </p>
 
