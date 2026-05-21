@@ -12,8 +12,8 @@
 <h2 font-weight="bold">About Me</h2>
 <br><br>
 
-- 💻 Software Engineer 
-- 📊 Currently expanding my skills in Data Analytics
+- 💻 Business Intelligence Engineer 
+- 📊 Data Analytics
 - ✍️ Part-time writer
 - 🌱 Always learning new technologies and improving my craft
   
