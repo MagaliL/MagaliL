@@ -22,76 +22,96 @@
 
 <h2 font-weight="bold">Tech Stack</h2>
 
+
 <table align="center">
   <tr>
     <td align="center" width="20%">
-      <img src="https://img.shields.co/badge/-Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" height="40" alt="Oracle DB">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="75" alt="Python">
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="75" alt="Oracle DB">
       <br><b>Oracle DB</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.co/badge/-SQL-00758F?style=flat-square&logo=databricks&logoColor=white" height="40" alt="SQL">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="75" alt="SQL">
       <br><b>SQL</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.co/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="40" alt="Excel">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Microsoft_Excel_Logo_%282019%E2%80%93present%29.svg" width="75" alt="Excel">
       <br><b>Excel</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.co/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="40" alt="Tableau">
-      <br><b>Tableau</b>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.co/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" alt="Pandas">
-      <br><b>Pandas</b>
+      <a href="https://public.tableau.com/app/profile/magali.espinosa/vizzes" target="_blank">
+        <img src="https://jmnote.com/w/images/0/02/Tableau-logo.png" width="75" style="background-color: #ffffff; padding: 5px; border-radius: 8px;" alt="Tableau Profile">
+      </a>
+      <br><b><a href="https://public.tableau.com/app/profile/magali.espinosa/vizzes" target="_blank">Tableau 🚀</a></b>
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <img src="https://img.shields.co/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="75" alt="PostgreSQL">
       <br><b>PostgreSQL</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="40" alt="GitHub">
-      <br><b>GitHub</b>
+      <a href="https://portafoliomagali.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="75" alt="GitHub Portafolio">
+      </a>
+      <br><b><a href="https://portafoliomagali.netlify.app/" target="_blank">GitHub 🌐</a></b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="40" alt="Python">
-      <br><b>Python</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="75" alt="Pandas">
+      <br><b>Pandas</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="40" alt="NumPy">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="75" alt="NumPy">
       <br><b>NumPy</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="40" alt="JavaScript">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="75" alt="JavaScript">
       <br><b>JavaScript</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.co/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="40" alt="React">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="75" alt="React">
       <br><b>React</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="40" alt="HTML5">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="75" alt="HTML5">
       <br><b>HTML5</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="40" alt="CSS3">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="75" alt="CSS3">
       <br><b>CSS3</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" height="40" alt="Vue.js">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="75" alt="Vue.js">
       <br><b>Vue.js</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.co/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="40" alt="Bootstrap">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="75" alt="Bootstrap">
       <br><b>Bootstrap</b>
     </td>
   </tr>
 </table>
+
+### 🛠️ Tecnologías y Herramientas / Technologies & Skills
+
+* **💻 Programming & Frameworks:** * • **Python** (Pandas & NumPy)
+  * • **JavaScript** (React & Vue.js)
+  * • **HTML5 & CSS3** (Bootstrap)
+
+* **📊 Data Analytics & BI:** * • **SQL** (Structured Queries)
+  * • **Microsoft Excel** (Advanced Analysis)
+  * • **Tableau** ➔ [Ver mis Tableros en Tableau Public 🚀](https://public.tableau.com/app/profile/magali.espinosa/vizzes)
+
+* **🗄️ Databases & Storage:** * • **Oracle DB** (PL/SQL / Lógica del Servidor)
+  * • **PostgreSQL**
+  * • **GitHub** ➔ [Visita mi Portafolio Web Personal 🌐](https://portafoliomagali.netlify.app/)
+
 
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect With Me 🤝 </h3>
