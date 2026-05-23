@@ -24,65 +24,65 @@
 <table align="center">
   <tr>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/oracle.svg" width="100" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" alt="Oracle">
+      <img src="https://img.shields.co/badge/-Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="45" alt="Oracle">
       <br><b>Oracle DB</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="100" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" alt="SQL">
+      <img src="https://img.shields.co/badge/-SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" height="45" alt="SQL">
       <br><b>SQL</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" width="100" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" alt="Excel">
+      <img src="https://img.shields.co/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="45" alt="Excel">
       <br><b>Excel</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg" width="100" style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;" alt="Tableau">
+      <img src="https://img.shields.co/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="45" alt="Tableau">
       <br><b>Tableau</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="100" alt="Python">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="80" alt="Python">
       <br><b>Python</b>
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/numpy-3521138-2944833.png" width="100" alt="NumPy">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/numpy-3521138-2944833.png" width="80" alt="NumPy">
       <br><b>NumPy</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="100" alt="PostgreSQL">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="80" alt="PostgreSQL">
       <br><b>PostgreSQL</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="100" alt="GitHub">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="80" alt="GitHub">
       <br><b>GitHub</b>
     </td>
     <td align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" width="100" alt="JavaScript">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" width="80" alt="JavaScript">
       <br><b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="100" alt="React">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="80" alt="React">
       <br><b>React</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="100" alt="HTML5">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="80" alt="HTML5">
       <br><b>HTML5</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="100" alt="CSS3">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="80" alt="CSS3">
       <br><b>CSS3</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="100" alt="Vue.js">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="80" alt="Vue.js">
       <br><b>Vue.js</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="100" alt="Bootstrap">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="80" alt="Bootstrap">
       <br><b>Bootstrap</b>
     </td>
     <td align="center">
