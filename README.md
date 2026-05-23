@@ -25,65 +25,65 @@
 <table align="center">
   <tr>
     <td align="center" width="20%">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Oracle-Dark.svg" width="80" alt="Oracle DB">
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="70" alt="Oracle DB">
       <br><b>Oracle DB</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="80" alt="SQL">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="70" alt="SQL">
       <br><b>SQL</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Excel-Dark.svg" width="80" alt="Excel">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="70" alt="Excel">
       <br><b>Excel</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Tableau-Dark.svg" width="80" alt="Tableau">
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="70" alt="Tableau">
       <br><b>Tableau</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="80" alt="Python">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="70" alt="Python">
       <br><b>Python</b>
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="80" alt="PostgreSQL">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="70" alt="PostgreSQL">
       <br><b>PostgreSQL</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="80" alt="GitHub">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="70" alt="GitHub">
       <br><b>GitHub</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NumPy-Dark.svg" width="80" alt="NumPy">
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="70" alt="NumPy">
       <br><b>NumPy</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="80" alt="JavaScript">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="70" alt="JavaScript">
       <br><b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="80" alt="React">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="70" alt="React">
       <br><b>React</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="80" alt="HTML5">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="70" alt="HTML5">
       <br><b>HTML5</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="80" alt="CSS3">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="70" alt="CSS3">
       <br><b>CSS3</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="80" alt="Vue.js">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="70" alt="Vue.js">
       <br><b>Vue.js</b>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="80" alt="Bootstrap">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="70" alt="Bootstrap">
       <br><b>Bootstrap</b>
     </td>
     <td align="center">
