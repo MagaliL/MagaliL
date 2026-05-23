@@ -23,12 +23,21 @@
 <h2 font-weight="bold">Tech Stack</h2>
 <table align="center">
   <tr>
+    <td>
+      <img src="[https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg](https://www.google.com/imgres?q=oracle%20png&imgurl=https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F453-4533338_oracle-logo-for-website-new-oracle-logo-png.png&imgrefurl=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhowTiiT_oracle-logo-for-website-new-oracle-logo-png%2F&docid=G5SYhvs4fnwHVM&tbnid=9J2NQ6c84ks9qM&vet=12ahUKEwjp8I7xw9CUAxXnmSYFHVLIImQQnPAOegQIbhAB..i&w=860&h=564&hcb=2&ved=2ahUKEwjp8I7xw9CUAxXnmSYFHVLIImQQnPAOegQIbhAB)" width="100">
+      
+    </td>
+  </tr>
+  
+  <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="100"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" width="100"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="100"></td>
       <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="100"></td>
       <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="100"></td>
   </tr>
+
+  
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/numpy-3521138-2944833.png" width="100"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="100"></td>
