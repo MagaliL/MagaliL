@@ -92,25 +92,25 @@
 </table>
 
 
-### 🛠️ Tecnologías y Herramientas / Technologies & Skills
+## 🌐 Connect with My Work / Portfolio & Projects
 
-* **💻 Programming & Frameworks:** * • **Python** (Pandas & NumPy)
-  * • **JavaScript** (React & Vue.js)
-  * • **HTML5 & CSS3** (Bootstrap)
+Explore my professional journey, data analytics dashboards, and engineering projects through the links below:
 
-* **📊 Data Analytics & BI:** * • **SQL** (Structured Queries)
-  * • **Microsoft Excel** (Advanced Analysis)
-  * • **Tableau** ➔ [Ver mis Tableros en Tableau Public 🚀](https://public.tableau.com/app/profile/magali.espinosa/vizzes)
+* 💼 **My Personal Portfolio:** [portafoliomagali.netlify.app ➔](https://portafoliomagali.netlify.app/)
+  *Developed using Agile methodologies and mobile-responsive design to highlight my software and data engineering projects.*
 
-* **🗄️ Databases & Storage:** * • **Oracle DB** (PL/SQL / Lógica del Servidor)
-  * • **PostgreSQL**
-  * • **GitHub** ➔ [Visita mi Portafolio Web Personal 🌐](https://portafoliomagali.netlify.app/)
+* 📊 **Tableau Public Profile:** [View My Dashboards on Tableau ➔](https://public.tableau.com/app/profile/magali.espinosa/vizzes)
+  *Features interactive dashboards, real-world case studies, and data storytelling tailored for business decision-making.*
 
+---
 
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect With Me 🤝 </h3>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">magalizethe@gmail.com </h3>
+
+
+
 
 
 
