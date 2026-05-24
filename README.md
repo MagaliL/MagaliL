@@ -21,7 +21,7 @@
 
 
 <h2 font-weight="bold">Tech Stack</h2>
-
+<br><br>
 <table align="center">
   <tr>
     <td align="center" width="20%">
@@ -91,9 +91,9 @@
   </tr>
 </table>
 
-
+<br><br>
 ## 🌐 Connect with My Work / Portfolio & Projects
-
+<br><br>
 Explore my professional journey, data analytics dashboards, and engineering projects through the links below:
 
 * 💼 **My Personal Portfolio:** [portafoliomagali.netlify.app ➔](https://portafoliomagali.netlify.app/)
